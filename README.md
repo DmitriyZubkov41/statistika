@@ -1,5 +1,5 @@
 <h3 align=center>Статистика на примере доходности акций Сбербанка</h3>
-Цель этого проекта - продемонстрировать знания в статистике и возможно получить пользу для моей торговли акциями. Проект создавал в программе Jupyter Notebook, но на этой странице (README.md) вы можете только читать его. Если же хотите повторять код Python, то можете выполнить readme.ipynb на [Google Colab](https://colab.research.google.com/github/DmitriyZubkov41/statistika/blob/main/readme.ipynb)
+Цель этого проекта - продемонстрировать знания в статистике и возможно получить пользу для моей торговли акциями. Проект создавал в программе Jupyter Notebook, но на этой странице (README.md) вы можете только читать его. Если же хотите повторять код Python, то можете выполнить readme.ipynb на [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DmitriyZubkov41/statistika/blob/main/readme.ipynb)
 
 Случайной величиной будет доходность, которая равняется:
 
